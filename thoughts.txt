@@ -1,0 +1,6 @@
+I last professionally coded about 10 years back in 2011, when I used to work for a leading investment bank. I used to be the delivery lead for the FX Options Platform for the bank.
+
+My programming career started with Java , VB6 moving on to C#. On the journey, I have also professionally developed software using JavaScript, JSP, ASP, ASP.Net, Java, Oracle, SQL Server and also VBA.
+I started my career when the default was a full stack developer, i.e. you talked to the users, wrote down the requirements, architected and designed it,  developed it, tested it, deployed it and then supported it post delivery. This included the entire stack - so the front end, the back end, the data base and in some instances you were responsible for the hardware infrastructure as well. 
+
+Since I have moved to management, I have struggled to take dedicated time out to cut software.

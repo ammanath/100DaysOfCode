@@ -1,0 +1,13 @@
+Project Ideas
+	Agile Manifesto Cards
+	Multiplicaiton tables
+	Anulom Vilom
+	Calculator
+	Tic Tac Toe
+	Weather app
+	Filler word usage
+
+
+Agile s/w development
+The app will show a list of cards. The cards will have the Agile values and the Principles.
+Add cards to show the Extreme Programming values
