@@ -48,3 +48,14 @@ Added google fonts to the app. Started work on list search.
 **Link to work** :  
 https://github.com/bit00/agileCards  
 **Thoughts** :    
+
+## Day 7/100 - Sat, 18 April 2020  #100DaysOfCode  #Flutter  
+**Today's Progress** :  
+Continued work on list search. 
+**Link to work** :  
+https://github.com/bit00/agileCards  
+**Thoughts** :   
+Found a new widget - scrollable_positioned_list  
+Search does not seem to make sense, so removed it  
+Changed color to blue  
+Need to find a way to navigate easily between cards, will use the app icon - Home and Next.  
