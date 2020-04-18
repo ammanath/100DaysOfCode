@@ -42,3 +42,9 @@ The project still works as a Stateless widget.
 Struggling to get this working (compiling and running) on both desktop and laptop. 
 Did not get time to read the book or any articles.
 
+## Day 6/100 - Fri, 17 April 2020  #100DaysOfCode  
+**Today's Progress** :  
+Added google fonts to the app. Started work on list search.
+**Link to work** :  
+https://github.com/bit00/agileCards  
+**Thoughts** :    
