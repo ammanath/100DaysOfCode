@@ -59,3 +59,13 @@ Found a new widget - scrollable_positioned_list
 Search does not seem to make sense, so removed it  
 Changed color to blue  
 Need to find a way to navigate easily between cards, will use the app icon - Home and Next.  
+
+
+
+
+
+## Day 9/100 - Mon, 20 April 2020  #100DaysOfCode  #Flutter  
+**Today's Progress** :  
+Could not spend much time on coding. Wasted some time on the AnimatedContainer and rolled back the code. 
+**Link to work** :  
+https://github.com/bit00/agileCards  
