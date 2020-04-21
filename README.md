@@ -69,3 +69,9 @@ Need to find a way to navigate easily between cards, will use the app icon - Hom
 Could not spend much time on coding. Wasted some time on the AnimatedContainer and rolled back the code. 
 **Link to work** :  
 https://github.com/bit00/agileCards  
+
+## Day 10/100 - Tue, 21 April 2020  #100DaysOfCode  #Flutter  
+**Today's Progress** :  
+Got the jump to card working. But still have issues in debug. Changed the default icon. 
+**Link to work** :  
+https://github.com/bit00/agileCards  
