@@ -76,28 +76,24 @@ https://github.com/bit00/agileCards
 **Today's Progress** :  
 Started work on adding more principles to the cards. 
 **Link to work** :
-https://github.com/bit00/agileCards 
+https://github.com/bit00/agileCards  
 
 
-
-8	19-Apr
-9	20-Apr
-10	21-Apr
-11	22-Apr
-12	23-Apr
-13	24-Apr
-## Day 13/100 - Fri, 24 April 2020  #100DaysOfCode  #Flutter  
-**Today's Progress** :  
-Could not spend the entire hour coding. Work and meetings took over. Had the podcast recording
-Added a button on taskbar for review
+## Day 13/100 - Fri, 24 April 2020  #100DaysOfCode  #Flutter   
+**Today's Progress** :   
+Could not spend the entire hour coding. Work and meetings took over. Had the podcast recording  
+Added a button on taskbar for review  
 **Link to work** :  
 https://github.com/bit00/agileCards  
-14	25-Apr
+14	25-Apr  
 ## Day 14/100 - Sat, 25 April 2020  #100DaysOfCode  #Flutter  
 **Today's Progress** :  
-Added a dialog to give start rating. Explored ways to review and to publish.
+Added a dialog to give start rating. Explored ways to review and to publish.  
 **Link to work** :  
 https://github.com/bit00/agileCards  
+    
+      
+	  
 15	26-Apr
 16	27-Apr
 17	28-Apr
