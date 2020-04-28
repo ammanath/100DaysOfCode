@@ -92,11 +92,30 @@ Added a dialog to give start rating. Explored ways to review and to publish.
 **Link to work** :  
 https://github.com/bit00/agileCards  
     
-      
-	  
 15	26-Apr
+## Day 15/100 - Sun, 26 April 2020  #100DaysOfCode  #Flutter  
+**Today's Progress** :  
+Added about dialog, removed scrollable listview, worked on deploying on google play
+Link to work:  https://github.com/bit00/agileCards  
+**Thoughts**
+Get the 1st version on Goolge play to start testing.
+
 16	27-Apr
+## Day 16/100 - Mon, 27 April 2020  #100DaysOfCode  #Flutter  
+**Today's Progress** :  
+Started work on a new product - Multiplication tables
+Link to work: https://github.com/bit00/mult_tables
+**Thoughts**
+Did not spend too much time on coding as got pulled into work.
+
 17	28-Apr
+## Day 17/100 - Tue, 28 April 2020  #100DaysOfCode  #Flutter  
+**Today's Progress** :  
+Worked on a new product - Multiplication tables. Created the grid view.
+Link to work: https://github.com/bit00/mult_tables
+**Thoughts**
+
+
 18	29-Apr
 19	30-Apr
 20	01-May
