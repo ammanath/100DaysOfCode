@@ -117,9 +117,31 @@ Link to work: https://github.com/bit00/mult_tables
 
 
 18	29-Apr
+## Day 18/100 - Wed, 29 April 2020  #100DaysOfCode  #Flutter  
+**Today's Progress** :  
+Tried to get the grid to dynamically update its contents. not much luck right now.
+Link to work: https://github.com/bit00/mult_tables
+**Thoughts**
 19	30-Apr
+## Day 19/100 - Thu, 30 April 2020  #100DaysOfCode  #Flutter  
+**Today's Progress** :  
+Continued working on trying to update the gridview contents.
+Link to work: https://github.com/bit00/mult_tables
 20	01-May
+## Day 20/100 - Fri, 1 May 2020  #100DaysOfCode  #Flutter  
+**Today's Progress** :  
+Refactored code. Used a seperate page to show the gridview with new contents.
+Link to work: https://github.com/bit00/mult_tables
+**Thoughts**
+It was a bank holiday so spent quite some time on coding.
+
 21	02-May
+## Day 21/100 - Sat, 2 May 2020  #100DaysOfCode  #Flutter  
+**Today's Progress** :  
+Added a page for quiz.   
+Link to work: https://github.com/bit00/mult_tables  
+**Thoughts**  
+Will need to spend some time understanding state and how to manage it.  
 22	03-May
 23	04-May
 24	05-May
