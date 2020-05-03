@@ -143,6 +143,14 @@ Link to work: https://github.com/bit00/mult_tables
 **Thoughts**  
 Will need to spend some time understanding state and how to manage it.  
 22	03-May
+## Day 22/100 - Sun, 3 May 2020  #100DaysOfCode  #Flutter  
+**Today's Progress** :  
+Worked on List logic in Dart to prepare quiz questions.
+Link to work: https://github.com/bit00/dart_features_test
+**Thoughts**  
+Need to practice the dart basics for Lists and operators
+
+
 23	04-May
 24	05-May
 25	06-May
