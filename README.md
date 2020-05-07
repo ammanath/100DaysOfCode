@@ -151,10 +151,38 @@ Link to work: https://github.com/bit00/dart_features_test
 Need to practice the dart basics for Lists and operators
 
 
-23	04-May
-24	05-May
-25	06-May
+23	04-May  
+## Day 23/100 - Mon, 4 May 2020  #100DaysOfCode  #Flutter  
+**Today's Progress** :  
+Added QuizQuestions class  
+Link to work: https://github.com/bit00/mult_tables  
+**Thoughts**   
+Read up about constructors  
+
+24	05-May  
+## Day 24/100 - Tue, 5 May 2020  #100DaysOfCode  #Flutter  
+**Today's Progress** :  
+Went back to Agile cards app and refactored code to use datastructure ItemData  
+Link to work: https://github.com/bit00/agileCards  
+**Thoughts**   
+Tech debt, cannot add features or more cards if not refactored  
+  
+25	06-May  
+## Day 25/100 - Wed, 6 May 2020  #100DaysOfCode  #Flutter  
+**Today's Progress** :   
+Continued with refactoring of code to use data structure ItemData  
+Link to work: https://github.com/bit00/agileCards  
+**Thoughts**   
+Tech debt, cannot add features or more cards if not refactored  
+
 26	07-May
+## Day 26/100 - Thu, 7 May 2020  #100DaysOfCode  #Flutter  
+**Today's Progress** :  
+Continued with refactoring of code.  
+Link to work: https://github.com/bit00/agileCards  
+**Thoughts**   
+Tech debt, cannot add features or more cards if not refactored  
+
 27	08-May
 28	09-May
 29	10-May
