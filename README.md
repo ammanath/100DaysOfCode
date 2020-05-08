@@ -183,7 +183,15 @@ Link to work: https://github.com/bit00/agileCards
 **Thoughts**   
 Tech debt, cannot add features or more cards if not refactored  
 
-27	08-May
+27	08-May 
+## Day 27/100 - Fri, 8 May 2020  #100DaysOfCode  #Flutter  
+**Today's Progress** :  
+Added XP cards to the app.
+Link to work: https://github.com/bit00/agileCards  
+**Thoughts**   
+UK bank holiday - VC Remembrance day
+
+
 28	09-May
 29	10-May
 30	11-May
