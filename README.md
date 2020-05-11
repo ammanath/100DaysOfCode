@@ -193,8 +193,53 @@ UK bank holiday - VC Remembrance day
 
 
 28	09-May
+## Day 28/100 - Sat, 9 May 2020  #100DaysOfCode  #Flutter  
+**Today's Progress** :  
+Added SOLID, Lean cards to the app.
+Link to work: https://github.com/bit00/agileCards  
+**Thoughts**   
+
 29	10-May
+## Day 29/100 - Sun, 10 May 2020  #100DaysOfCode  #Flutter  
+**Today's Progress** :  
+Spent time on the look and feel of the app - fonts, colors etc.
+Link to work: https://github.com/bit00/agileCards  
+**Thoughts** 
+#100DaysOfCode  #Flutter   #retro
+Yesterday marked the completion of 4 weeks of my starting the 100 days of code challenge. Its been an exciting journey. 
+I had spent some time dabbling in and out of Dart and Flutter before I strated the challenge, so langauage basics was not a major issue, but nerve wracking all the same considering i had not professionally cut code for over a decade.
+
+Week 1 - 12th to 18th Apr - Agile Cards - 16 commits
+Week 2 - 19th to 25th Apr - Agile Cards - 14 commits
+Week 3 - 26th to 02nd May  - Agile Cards - 1 commit, Mult Tables - 11 commits
+Week 4 - 3rd to 09th May  - Agile Cards - 20 commits, Mult Tables - 3 commits
+
+Green in git for the last 4 weeks. 
+
+90-day avg by day of week
+-----------------------------------------------------------------
+                      sun : ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮ 1.9 hrs
+                      mon : ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮ 1.2 hrs
+                      tue : ▮▮▮▮▮▮▮▮▮▮▮ 53 min
+                      wed : ▮▮▮▮▮▮▮▮▮▮▮▮▮▮ 1.1 hrs
+                      thu : ▮▮▮▮▮▮▮▮▮▮ 46 min
+                      fri : ▮▮▮▮▮▮▮▮▮▮▮▮ 57 min
+                      sat : ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮ 1.7 hrs
+
+Thursday is the challenge (avg 46 mins coding), primarily due to a full calendar at work. Need to try and move some meetings out.
+Overall cutting code for an hour means there is a lot more time spent in researching and learning. The most challenging part of the 100 day challenge has been that it only counts the time spent on actually working on the project. I have struggled to make time to understand the concept or to learn better ways to do stuff. I think i personally need at least 2 hours for learning to make sure i am writing code that is of good quality. For the last 4 weeks the focus has been on cutting code and not if the code written is following the right principles or making use of the most optimal concepts/patterns. Considering i am averaging good on the weekends and bank holidays, I think the way forward will be to spend the addtional time on learning rather than coding on these days.
+
+Proud to have one app on Google Play - though its only on beta (test mode) and making progress on the second app.
+https://github.com/bit00/agileCards  
+https://github.com/bit00/mult_tables  
+
+
 30	11-May
+## Day 30/100 - Mon, 11 May 2020  #100DaysOfCode  #Flutter  
+**Today's Progress** :  
+Started a new app - KK 68 pieces of advice  
+Link to work: https://github.com/bit00/kk_advice  
+**Thoughts**  
 31	12-May
 32	13-May
 33	14-May
