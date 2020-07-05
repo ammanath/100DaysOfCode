@@ -470,7 +470,7 @@ poker   gWX9@4hN
 **Today's Progress** :  
 Very little coding today as i had to set up the envt's again after rebuilding the machine.
 Link to work: 
-https://github.com/ammanath/agileCards 
+https://github.com/ammanath/agileCards   
 81	01-Jul
 ## Day 81/100 - Wed, 01 Jul 2020  #100DaysOfCode  #Flutter  
 **Today's Progress** :  
@@ -500,6 +500,7 @@ Plan for the day -
 - Release Agile cards v13
 - Understand built value
 - Release KK App to beta
+- Explore CI/CD, tried Directory Monitor
 86	06-Jul
 87	07-Jul
 88	08-Jul
