@@ -500,7 +500,7 @@ Plan for the day -
 - Release Agile cards v13
 - Understand built value
 - Release KK App to beta
-- Explore CI/CD, tried Directory Monitor
+- Explore CI/CD, tried Directory Monitor to monitor the 100DaysOfCode folder
 86	06-Jul
 87	07-Jul
 88	08-Jul
