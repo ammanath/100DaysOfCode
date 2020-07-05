@@ -501,6 +501,11 @@ Plan for the day -
 - Understand built value
 - Release KK App to beta
 - Explore CI/CD, tried Directory Monitor to monitor the 100DaysOfCode folder
+## Day 85/100 - Sun, 5 Jul 2020  #100DaysOfCode  #Flutter  
+**Today's Progress** :  
+Did a Prod release of the agile app. Did a beta release of KK's app.
+Link to work: 
+https://github.com/ammanath/agileCards
 86	06-Jul
 87	07-Jul
 88	08-Jul
