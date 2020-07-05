@@ -1,0 +1,11 @@
+Basic CICD Set up
+This is to ensure we have any changes to the 100DaysOfCode autocommitted and pushed into git hub.
+
+We are using Directory Monitor to monitor the folder
+Any changes in the folder will trigger running of C:\working\autoCommit.bat
+
+https://stackoverflow.com/questions/420143/making-git-auto-commit/14002536
+https://directorymonitor.com/
+
+
+
