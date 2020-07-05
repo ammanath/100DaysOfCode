@@ -21,7 +21,7 @@ Used the List and its inbuilt funcitons to populate the text card.
 Spent good amount of time on coding. Have a better understanding of the List and its functions.  
 
 
-## Day 3 - Tue, 14 April 2020  
+## Day 3 - Tue, 14 April 2020    
 **Today's Progress** :  
 Added the Agile Principles. Grouped using a Card for Values and Principles.
 
