@@ -512,6 +512,11 @@ Plan for the day -
 - Release Math App to beta
 - Fix Navigation for all pages in the Math app
 - Add Cancel to Quiz, to abandon mid-way before last question is answered.
+## Day 86/100 - Mon, 6 Jul 2020  #100DaysOfCode  #Flutter  
+**Today's Progress** :  
+Worked on the math app to fix the navigation between pages.
+Link to work: 
+https://github.com/ammanath/mult_tables 
 87	07-Jul
 88	08-Jul
 89	09-Jul
