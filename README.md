@@ -507,6 +507,9 @@ Did a Prod release of the agile app. Did a beta release of KK's app.
 Link to work: 
 https://github.com/ammanath/agileCards
 86	06-Jul
+Plan for the day -
+- Understand built value
+- Release Math App to beta
 87	07-Jul
 88	08-Jul
 89	09-Jul
