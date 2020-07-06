@@ -511,6 +511,7 @@ Plan for the day -
 - Understand built value
 - Release Math App to beta
 - Fix Navigation for all pages in the Math app
+- Add Cancel to Quiz, to abandon mid-way before last question is answered.
 87	07-Jul
 88	08-Jul
 89	09-Jul
