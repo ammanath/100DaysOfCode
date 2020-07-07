@@ -517,7 +517,16 @@ Plan for the day -
 Worked on the math app to fix the navigation between pages.
 Link to work: 
 https://github.com/ammanath/mult_tables 
-87	07-Jul
+87	07-Jul Tue
+Plan for the day -
+- Understand built value
+- Release Math App to beta
+- Show Results page in a readable format
+## Day 87/100 - Tue, 7 Jul 2020  #100DaysOfCode  #Flutter  
+**Today's Progress** :  
+Worked on the math app for showing the results in a readable format.
+Link to work: 
+https://github.com/ammanath/mult_tables 
 88	08-Jul
 89	09-Jul
 90	10-Jul
