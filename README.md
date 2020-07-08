@@ -535,7 +535,7 @@ Plan for the day -
 - Refactoring
 ## Day 88/100 - Wed, 8 Jul 2020  #100DaysOfCode  #Flutter  
 **Today's Progress** :  
-Worked on the math app and updated to use google fonts
+Worked on the math app - mostly refactoring
 Link to work: 
 https://github.com/ammanath/mult_tables 
 89	09-Jul
