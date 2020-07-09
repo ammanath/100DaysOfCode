@@ -539,6 +539,16 @@ Worked on the math app - mostly refactoring
 Link to work: 
 https://github.com/ammanath/mult_tables 
 89	09-Jul
+Plan for the day -
+- Understand built value
+- Release Math App to beta
+- Fonts on the Quiz Results Page
+- Buttons on the Quiz pages
+## Day 89/100 - Thu, 9 Jul 2020  #100DaysOfCode  #Flutter  
+**Today's Progress** :  
+Worked on the math app - better buttons and built the apb for the app.
+Link to work: 
+https://github.com/ammanath/mult_tables 
 90	10-Jul
 91	11-Jul
 92	12-Jul
