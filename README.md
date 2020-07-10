@@ -550,12 +550,12 @@ Worked on the math app - better buttons and built the apb for the app.
 Link to work: 
 https://github.com/ammanath/mult_tables 
 90	10-Jul
-Plan for the day - Refactor
+Plan for the day - Refactor  
 - Understand built value
 - Release Math App to beta
 ## Day 90/100 - Fri, 10 Jul 2020  #100DaysOfCode  #Flutter  
 **Today's Progress** :  
-Worked on the math app - better buttons and built the apb for the app.
+Worked on the math app - refactored code.
 Link to work: 
 https://github.com/ammanath/mult_tables 
 91	11-Jul
