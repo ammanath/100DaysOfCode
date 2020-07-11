@@ -559,6 +559,13 @@ Worked on the math app - refactored code.
 Link to work: 
 https://github.com/ammanath/mult_tables 
 91	11-Jul
+Plan for the day  
+- Refactor Math App
+## Day 91/100 - Sat, 11 Jul 2020  #100DaysOfCode  #Flutter  
+**Today's Progress** :  
+Worked on the math app - refactored code
+Link to work: 
+https://github.com/ammanath/mult_tables 
 92	12-Jul
 93	13-Jul
 94	14-Jul
@@ -571,3 +578,10 @@ https://github.com/ammanath/mult_tables
 
 Agile App
 KK App   
+Math App
+
+Further learning:
+- Understand built value
+- Understand Streams
+- Understand Builders
+- State Mgmt - BLOC
