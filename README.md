@@ -563,7 +563,7 @@ Plan for the day
 - Refactor Math App
 ## Day 91/100 - Sat, 11 Jul 2020  #100DaysOfCode  #Flutter  
 **Today's Progress** :  
-Worked on the math app - refactored code
+Worked on the math app - more refactoring
 Link to work: 
 https://github.com/ammanath/mult_tables 
 92	12-Jul
