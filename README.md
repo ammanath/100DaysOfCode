@@ -571,10 +571,18 @@ Plan for the day
 - Embed fonts in Agile and KK app and re-launch
 ## Day 92/100 - Sun, 12 Jul 2020  #100DaysOfCode  #Flutter  
 **Today's Progress** :  
-Worked on embedding fonts
+Worked on embedding fonts in the Agile app. Also started exploring audio to text packages.
 Link to work: 
-https://github.com/ammanath/mult_tables 
+https://github.com/ammanath/agileCards
 93	13-Jul
+Plan for the day  
+- Check embedded fonts in Agile app
+- Fix issues in Simple permission in Audio app
+## Day 93/100 - Mon, 13 Jul 2020  #100DaysOfCode  #Flutter  
+**Today's Progress** :  
+Worked on embedding fonts in the Agile app. Also started exploring audio to text packages.
+Link to work: 
+https://github.com/ammanath/agileCards
 94	14-Jul
 95	15-Jul
 96	16-Jul
