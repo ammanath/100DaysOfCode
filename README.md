@@ -567,6 +567,13 @@ Worked on the math app - more refactoring
 Link to work: 
 https://github.com/ammanath/mult_tables 
 92	12-Jul
+Plan for the day  
+- Embed fonts in Agile and KK app and re-launch
+## Day 92/100 - Sun, 12 Jul 2020  #100DaysOfCode  #Flutter  
+**Today's Progress** :  
+Worked on embedding fonts
+Link to work: 
+https://github.com/ammanath/mult_tables 
 93	13-Jul
 94	14-Jul
 95	15-Jul
