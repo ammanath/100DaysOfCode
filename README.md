@@ -582,7 +582,7 @@ Plan for the day
 - Fix issues in Simple permission in Audio app
 ## Day 93/100 - Mon, 13 Jul 2020  #100DaysOfCode  #Flutter  
 **Today's Progress** :  
-Worked on embedding fonts in the Agile app. Also started exploring audio to text packages.
+Worked on embedding fonts in the Agile app. Also embedded fonts in the KK App.
 Link to work: 
 https://github.com/ammanath/agileCards
 94	14-Jul
