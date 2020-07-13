@@ -577,6 +577,8 @@ https://github.com/ammanath/agileCards
 93	13-Jul
 Plan for the day  
 - Check embedded fonts in Agile app
+- Update typewriter font for Agile App
+- Embed fonts for Math app
 - Fix issues in Simple permission in Audio app
 ## Day 93/100 - Mon, 13 Jul 2020  #100DaysOfCode  #Flutter  
 **Today's Progress** :  
