@@ -586,6 +586,14 @@ Worked on embedding fonts in the Agile app. Also embedded fonts in the KK App.
 Link to work: 
 https://github.com/ammanath/agileCards
 94	14-Jul
+Plan for the day  
+- Embed fonts for Math app for both screens
+- Advertise plugin integration for the Math app
+## Day 93/100 - Mon, 13 Jul 2020  #100DaysOfCode  #Flutter  
+**Today's Progress** :  
+Worked on adding embedded fonts for the Math app
+Link to work: 
+https://github.com/ammanath/mult_tables 
 95	15-Jul
 96	16-Jul
 97	17-Jul
@@ -602,3 +610,4 @@ Further learning:
 - Understand Streams
 - Understand Builders
 - State Mgmt - BLOC
+- Fix issues in Simple permission in Audio app
