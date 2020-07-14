@@ -587,11 +587,11 @@ Link to work:
 https://github.com/ammanath/agileCards
 94	14-Jul
 Plan for the day  
-- Embed fonts for Math app for both screens
+- Embed fonts for KK app for both screens
 - Advertise plugin integration for the Math app
 ## Day 93/100 - Mon, 13 Jul 2020  #100DaysOfCode  #Flutter  
 **Today's Progress** :  
-Worked on adding embedded fonts for the Math app
+Worked on adding embedded fonts for the KK app
 Link to work: 
 https://github.com/ammanath/mult_tables 
 95	15-Jul
