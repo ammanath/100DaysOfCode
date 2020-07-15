@@ -600,7 +600,7 @@ Plan for the day
 - Advertise plugin integration for the Math app
 ## Day 95/100 - Wed, 15 Jul 2020  #100DaysOfCode  #Flutter  
 **Today's Progress** :  
-A..............................................
+A......................................
 Link to work: 
 https://github.com/ammanath/kk_advice
 
