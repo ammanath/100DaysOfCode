@@ -600,12 +600,12 @@ Plan for the day
 - Ads AdMob plugin integration for the Math app
 - Add animation on finishing the quiz
 - Increase the number of questions of 15
-- Release Math app to Production
+- Release Math app to Production  
 ## Day 95/100 - Wed, 15 Jul 2020  #100DaysOfCode  #Flutter  
 **Today's Progress** :  
-A......................................
+Added AdMob to the Math app. Increased the number of questions to 15. 
 Link to work: 
-https://github.com/ammanath/kk_advice
+https://github.com/ammanath/mult_tables 
 
 96	16-Jul
 97	17-Jul
