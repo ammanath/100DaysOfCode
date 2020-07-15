@@ -604,7 +604,7 @@ Plan for the day
 ## Day 95/100 - Wed, 15 Jul 2020  #100DaysOfCode  #Flutter  
 **Today's Progress** :  
 Added AdMob to the Math app. Increased the number of questions to 15. 
-Link to work: 
+Link to work:  
 https://github.com/ammanath/mult_tables 
 
 96	16-Jul
