@@ -597,7 +597,7 @@ https://github.com/ammanath/kk_advice
 
 95	15-Jul
 Plan for the day  
-- Advertise plugin integration for the Math app
+- Ads AdMob plugin integration for the Math app
 ## Day 95/100 - Wed, 15 Jul 2020  #100DaysOfCode  #Flutter  
 **Today's Progress** :  
 A......................................
