@@ -598,6 +598,8 @@ https://github.com/ammanath/kk_advice
 95	15-Jul
 Plan for the day  
 - Ads AdMob plugin integration for the Math app
+- Add animation on finishing the quiz
+- Increase the number of questions of 15
 ## Day 95/100 - Wed, 15 Jul 2020  #100DaysOfCode  #Flutter  
 **Today's Progress** :  
 A......................................
