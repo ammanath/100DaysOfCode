@@ -608,6 +608,16 @@ Link to work:
 https://github.com/ammanath/mult_tables 
 
 96	16-Jul
+Plan for the day  
+- Check on mobile - Ads AdMob plugin integration for the Math app
+- Add animation on finishing the quiz
+- Release Math app to Production if advts are working 
+## Day 96/100 - Thu, 16 Jul 2020  #100DaysOfCode  #Flutter  
+**Today's Progress** :  
+Added AdMob to the Math app. Increased the number of questions to 15. 
+Link to work:  
+https://github.com/ammanath/mult_tables 
+
 97	17-Jul
 98	18-Jul
 99	19-Jul
