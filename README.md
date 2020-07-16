@@ -614,9 +614,9 @@ Plan for the day
 - Release Math app to Production if advts are working 
 ## Day 96/100 - Thu, 16 Jul 2020  #100DaysOfCode  #Flutter  
 **Today's Progress** :  
-Added AdMob to the Math app. Increased the number of questions to 15. 
+Worked on an animation sample project
 Link to work:  
-https://github.com/ammanath/mult_tables 
+https://github.com/ammanath/shapeAnimation
 
 97	17-Jul
 98	18-Jul
