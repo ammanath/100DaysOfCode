@@ -634,10 +634,10 @@ Plan for the day
 - Ads AdMob plugin integration for the Math app not working. Need to investigate
 - Add animation on finishing the quiz
 - Release Math app to Production if advts are working 
-## Day 97/100 - Fri, 17 Jul 2020  #100DaysOfCode  #Flutter  
+## Day 98/100 - Sat, 18 Jul 2020  #100DaysOfCode  #Flutter  
 **Today's Progress** :  
-Cant belive I managed to stick to this for 97 days! Only 3 more days to go!!!
-Today I continued working on the animation sample project
+Cant belive I managed to stick to this for 98 days! Only 2 more days to go!!!
+Today I continued working on the animation sample project, and the math app.
 Link to work:  
 https://github.com/ammanath/shapeAnimation
 99	19-Jul
