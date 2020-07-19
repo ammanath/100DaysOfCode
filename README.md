@@ -641,6 +641,15 @@ Today I continued working on the animation sample project, and the math app.
 Link to work:  
 https://github.com/ammanath/shapeAnimation
 99	19-Jul
+Plan for the day  
+- AdMob plugin integration for the Math app not working. Need to investigate
+- Release Math app to Production if advts are working 
+## Day 98/100 - Sat, 18 Jul 2020  #100DaysOfCode  #Flutter  
+**Today's Progress** :  
+Wow, 99 days!!!
+Today I continued working on the animation sample project, and the math app.
+Link to work:  
+https://github.com/ammanath/shapeAnimation
 100	20-Jul
 
 Agile App
