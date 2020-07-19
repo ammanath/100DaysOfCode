@@ -644,6 +644,7 @@ https://github.com/ammanath/shapeAnimation
 Plan for the day  
 - AdMob plugin integration for the Math app not working. Need to investigate
 - Release Math app to Production if advts are working 
+- Get the advts on all the pages
 ## Day 98/100 - Sat, 18 Jul 2020  #100DaysOfCode  #Flutter  
 **Today's Progress** :  
 Wow, 99 days!!!
