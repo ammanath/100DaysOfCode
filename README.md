@@ -656,11 +656,27 @@ https://github.com/ammanath/mult_tables
 ## Day 100/100 - Mon, 20 Jul 2020  #100DaysOfCode  #Flutter  
 **Today's Progress** :  
 Completed 100 days of code challenge!
-Built and released 3 apps on the Play store during this time.
+Built and released 3 apps on the Play store during this time. 
 Link to work:  
-https://github.com/ammanath/mult_tables 
-https://github.com/ammanath/kk_advice
-https://github.com/ammanath/agileCards
+https://play.google.com/store/apps/details?id=com.fintechthoughtleaders.agile_cards
+https://play.google.com/store/apps/details?id=com.ammanath.kk_advice
+https://play.google.com/store/apps/details?id=com.ammanath.mult_tables
+
+Day 100/100 - Mon, 20 Jul 2020  #100DaysOfCode  #Flutter  
+Completed 100 days of code challenge! A big thanks to @imthepk for his videos on Flutter. You got me started!
+
+Day 100/100 - Mon, 20 Jul 2020  #100DaysOfCode  #Flutter  
+When i started, I had no idea about #Dart or #Flutter nor did i have any idea abt how to release an app on Google Playstore. I have learnt so many things in these 100 days, its been an absolutely amazing journey. 
+
+Day 100/100 - Mon, 20 Jul 2020  #100DaysOfCode  #Flutter  
+@kevin2kelly, Here's a belated b'day gift, an unsolicited Android app covering your 68 Bits of Unsolicited Advice. Many thanks for all your gr8 advice.
+https://play.google.com/store/apps/details?id=com.ammanath.kk_advice
+
+Day 100/100 - Mon, 20 Jul 2020  #100DaysOfCode  #Flutter  
+@kevin2kelly - A worthy goal for a year is to learn enough about a subject so that you can’t believe how ignorant you were a year earlier. I started this journey with #100DaysOfCode
+
+Day 100/100 - Mon, 20 Jul 2020  #100DaysOfCode  #Flutter  
+The start of a sea of green hopefully :-) The only grey day was Jul 3, where I forgot to push to github. Made me realize the importance of having a CICD pipeline. Need to implement Jenkins, i guess.
 
 
 Agile App
