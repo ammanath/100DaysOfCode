@@ -645,13 +645,23 @@ Plan for the day
 - AdMob plugin integration for the Math app not working. Need to investigate
 - Release Math app to Production if advts are working 
 - Get the advts on all the pages
-## Day 98/100 - Sat, 18 Jul 2020  #100DaysOfCode  #Flutter  
+## Day 99/100 - Sun, 19 Jul 2020  #100DaysOfCode  #Flutter  
 **Today's Progress** :  
 Wow, 99 days!!!
-Today I continued working on the animation sample project, and the math app.
+Today I continued working on the math app. Added an additional navigation screen and added test advt's.
 Link to work:  
-https://github.com/ammanath/shapeAnimation
+https://github.com/ammanath/mult_tables 
+
 100	20-Jul
+## Day 100/100 - Mon, 20 Jul 2020  #100DaysOfCode  #Flutter  
+**Today's Progress** :  
+Completed 100 days of code challenge!
+Built and released 3 apps on the Play store during this time.
+Link to work:  
+https://github.com/ammanath/mult_tables 
+https://github.com/ammanath/kk_advice
+https://github.com/ammanath/agileCards
+
 
 Agile App
 KK App   
@@ -663,3 +673,4 @@ Further learning:
 - Understand Builders
 - State Mgmt - BLOC
 - Fix issues in Simple permission in Audio app
+- Set up Jenkins
