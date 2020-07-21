@@ -681,6 +681,7 @@ The start of a sea of green hopefully :-) The only grey day was Jul 3, where I f
 
 Tue, 21 Jul 2020  #100DaysOfCode  #Flutter  
 Started adding functionality of Addition to the Math app.
+Need to fix the screen after results are shown.
 
 
 
