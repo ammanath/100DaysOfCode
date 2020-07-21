@@ -679,6 +679,11 @@ Day 100/100 - Mon, 20 Jul 2020  #100DaysOfCode  #Flutter
 The start of a sea of green hopefully :-) The only grey day was Jul 3, where I forgot to push to github. Made me realize the importance of having a CICD pipeline. Need to implement Jenkins, i guess.
 
 
+Tue, 21 Jul 2020  #100DaysOfCode  #Flutter  
+Started adding functionality of Addition to the Math app.
+
+
+
 Agile App
 KK App   
 Math App
