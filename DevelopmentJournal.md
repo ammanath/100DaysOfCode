@@ -16,11 +16,11 @@
 * **Learn Corda**
 
 
-## Tue, 21 Jul 2020 
+#### Tue, 21 Jul 2020 
 - [ ] Started adding functionality of Addition to the Math app.
 - [ ] Need to fix the screen after results are shown.
 
-## Wed, 22 Jul 2020 
+#### Wed, 22 Jul 2020 
 - [ ] Continue workng on functionality of Addition feature to the Math app.
 - [ ] Need to fix the screen after results are shown.
 
