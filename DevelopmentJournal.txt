@@ -1,19 +1,22 @@
 Development Journal
 
-Tue, 21 Jul 2020  #100DaysOfCode  #Flutter  
-Started adding functionality of Addition to the Math app.
-Need to fix the screen after results are shown.
+## Tue, 21 Jul 2020  #100DaysOfCode  #Flutter  
+- [ ] Started adding functionality of Addition to the Math app.
+- [ ] Need to fix the screen after results are shown.
 
 
 
-Agile App
-KK App   
-Math App
+
+## App List
+- [x] Agile App
+- [x] KK App   
+- [x] Math App
+
 
 Further learning:
-- Understand built value
-- Understand Streams
-- Understand Builders
-- State Mgmt - BLOC
-- Fix issues in Simple permission in Audio app
-- Set up Jenkins
+* Understand built value
+* Understand Streams
+* Understand Builders
+* State Mgmt - BLOC
+* Fix issues in Simple permission in Audio app
+* Set up Jenkins
