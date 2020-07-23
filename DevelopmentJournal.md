@@ -23,8 +23,8 @@
 #### Fri, Jul 24, 20
 
 #### Thu, Jul 23, 20
-- [ ] Corda samples
-- [ ] Math app, fix the icons
+- [x] Corda samples, started this, trying to see if I can do this with VSCode and not deploy IntelliJ
+- [x] Math app, fix the icons - Done
 
 
 #### Wed, 22 Jul 2020 
