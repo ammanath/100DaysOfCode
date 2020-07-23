@@ -24,6 +24,7 @@
 
 #### Thu, Jul 23, 20
 - [ ] Corda samples
+- [ ] Math app, fix the icons
 
 
 #### Wed, 22 Jul 2020 
