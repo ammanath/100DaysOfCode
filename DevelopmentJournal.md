@@ -21,6 +21,9 @@
 #### Sat, Jul 25, 20
 
 #### Fri, Jul 24, 20
+- [ ] Install Jenkins locally for monitoring 
+- [ ] Flutter - Math App, UI of the answers 
+- [ ] Corda example proj on IntelliJ
 
 #### Thu, Jul 23, 20
 - [x] Corda samples, started this, trying to see if I can do this with VSCode and not deploy IntelliJ
