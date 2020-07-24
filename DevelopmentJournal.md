@@ -15,14 +15,17 @@
 * *Set up Jenkins*
 * **Learn Corda**
 * *Learn HyperLedger*
+* Animated bubbles -  https://andrebaltazar.com/blog/e53b/20180722-flutter-animated-backgrounds
 
 #### Sun, Jul 26, 20
 
 #### Sat, Jul 25, 20
+- [ ] Corda example proj on IntelliJ
+
 
 #### Fri, Jul 24, 20
 - [ ] Install Jenkins locally for monitoring 
-- [ ] Flutter - Math App, UI of the answers 
+- [x] Flutter - Math App, UI of the answers 
 - [ ] Corda example proj on IntelliJ
 
 #### Thu, Jul 23, 20
