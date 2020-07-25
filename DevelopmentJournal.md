@@ -20,9 +20,9 @@
 #### Sun, Jul 26, 20
 
 #### Sat, Jul 25, 20
-- [ ] Corda example proj on IntelliJ
-- [ ] Write
-- [ ] Type
+- [x] Corda example proj on IntelliJ
+- [x] Write
+- [x] Type
 
 #### Fri, Jul 24, 20
 - [ ] Install Jenkins locally for monitoring 
