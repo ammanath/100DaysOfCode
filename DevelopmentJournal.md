@@ -17,6 +17,8 @@
 * *Learn HyperLedger*
 * Animated bubbles -  https://andrebaltazar.com/blog/e53b/20180722-flutter-animated-backgrounds
 
+#### Tue, Jul 28, 20
+- [ ] Checked in Corda app - sample for iterating 
 
 #### Mon, Jul 27, 20
 - [ ] Added copy function to KK_app
