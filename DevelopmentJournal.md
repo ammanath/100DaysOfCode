@@ -19,7 +19,7 @@
 
 
 #### Thu, Jul 30, 20
-- [ ] 
+- [ ] Worked on the triangles animation
 
 #### Wed, Jul 29, 20
 - [ ]  
