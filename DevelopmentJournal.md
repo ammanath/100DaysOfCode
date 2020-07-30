@@ -18,6 +18,9 @@
 * Animated bubbles -  https://andrebaltazar.com/blog/e53b/20180722-flutter-animated-backgrounds
 
 
+#### Thu, Jul 30, 20
+- [ ] 
+
 #### Wed, Jul 29, 20
 - [ ]  
 
