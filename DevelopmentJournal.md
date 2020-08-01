@@ -17,6 +17,9 @@
 * *Learn HyperLedger*
 * Animated bubbles -  https://andrebaltazar.com/blog/e53b/20180722-flutter-animated-backgrounds
 
+#### Sat, Aug 1, 20
+- [ ] Continue work on the triangles animation
+
 #### Fri, Jul 31, 20
 - [ ] Continue work on the triangles animation
 
