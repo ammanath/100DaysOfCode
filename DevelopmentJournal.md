@@ -21,6 +21,7 @@
 - [ ] Corda
 - [ ] Boring Flutter Show : Ep 3 39mins
 - [ ] Netlify
+- [x] Kotlin, Module 3 PS course
 
 #### Sat, Aug 1, 20
 - [ ] Continue work on the triangles animation
