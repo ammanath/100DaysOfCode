@@ -1,0 +1,52 @@
+2 Aug 2020
+
+Think Big, start big, learn slow approach. A deterministic mindset, predicting the future at the point of knowing the least and not getting any value or learning until right at or after the theoretical end.
+
+In the early 1990s, as PC computing began to proliferate in the enterprise, software development faced a crisis. At the time, it was widely referred to as "the application development crisis", or "application delivery lag". Industry experts estimated that the time between a validated business need and an actual application in production was about three years.
+
+The problem was, businesses moved faster than that, even 25 years ago. Within the space of 3 years, requirements, systems and even entire businesses were likely to change. That meant that many projects ended up being cancelled partway through, and many of those that were completed didn't meet all the business's current needs, even if the project's original objectives were met.
+
+In certain industries , the lag was far greater that three years. In aerospace and defence, it could be 20 or more years before a complex system went into actual use. In an extreme but no means unusual example, the Space Shuttle program, which operationally launched in 1982, used information and processing technologies from the 1960's. Highly complicated hardware and software systems were often designed, developed and deployed in a time frame that spanned decades.
+
+In 1962, Elisabeth Kubler-Ross was teaching at the school of medicine at the university of Colorado when she was asked to fill in for another professor. She was nervous. Born in Zurich and aged just 34, she still spoke with a thick German accent. The professor she was replacing was a popular lecturer who could fill and dominate a lecure hall. Kuber-Ross could barely make herself heard.
+
+To help her communicate her lesson, Kubler-Ross called on the help of a 16 year old medical patient. The girl was dying of lukemia, and Kuber-Ross invited the students to ask her about her condition.
+
+The lecture hall fell silent. There was a lot of shuffling on seats but slowly the students started to question the teenager about her blood tests and her chemotherapy. They focused on her medical procedures and on her symptoms. They saw only the disease. Eventually, the patient had had enough. She angrily started to ask her own questions:
+
+"What's it like not to be able to dream about the high-school prom?" she demanded.
+"What's it like to know you'll never go on a date?"
+"What's it like to know you'll never grow up?"
+"Why is everyone always lying to me?"
+
+By the time the lecture ended, many of the students were in tears and Kubler-Ross had give the students a demonstration of what would go on to become the second of her five stages of grief. People facing death or the loss of a lover one, she argued in her 1969 book - On Death and Dying - pass through denial, anger, bargaining and depression before reaching an acceptance of the situation. The order may change and not everyone experiences each stage, but those feelings will be familiar to anyone who suffers a loss.
+
+Now, changing the way you work isn't the same as facing bereavement or the loss of your own life. However, the human reaction to change is the same. Kubler-Ross herself expanded her model to include any loss, including the loss of a job and the end of a relationship.
+
+In feedback from regular colleague surveys, I have observed this pattern many times. It is pronounced when change is inflicted. There is a peak of emotion which takes the form of interest (or head in the sand denial), then a dip as people realize that changing habits is hard. There is learning anxiety, followed in most cases by a climbing up and out of the hole with a steady improvement in delivering Better Value Sooner Safer Happier outcomes as the new situation is accepted and mastery of the new normal grows.
+
+Change is always difficult. Changing ways of working is hard. Colleagues with long careers can suddenly find themselves experiencing a lack of mastery, learning anxiety, a feeling taht they're begining again as though they were arriving at a company for the first time straight out of university, college or school. At least some of their intrinsic motivators, that sense they're in control of their destiny and are good at what they do, are coming under pressure.
+
+The Kuber-Ross Change Curve
+1 - Shock and Denial
+2 - Anger
+3 - Bargaining
+4 - Depression
+5 - Acceptance
+
+
+
+
+1 Aug 2020
+
+Paul Graham - The four quadrants of conformism
+
+One of the most revealing ways to classify people is by the degree and aggressiveness of their conformism. Imagine a cartesian coordiante system whose horizontal axis runs from conventional-minded on the left to the independent minded on the right, and whose vertical axis runs from passive at the bottom to aggressive at the top. The resulting four quadrants define four types of people. Starting in the upper left and going counter-clockwise: aggressively conventional-minded, passively conventional-minded, passively independent-minded and aggressively independent-minded.
+
+I think that you'll find all four types in most societies, and that which quadran people fall into depends more on their own personality than the beliefs prevalent in their society.
+
+Young children offer some of the best evidence for both points. Anyone who's been to primary school has seen the four types, and the fact that school rules are so arbitary is strong evidence that the quadrant people fall into depends more on them than the rules.
+
+The kids in the upper left quadrant, the aggressively conventional-minded ones, are the tattletales. They believe not only that the rules must be obeyed, but that those who disobey them must be punished.
+
+The kids in the lower left quadrant, the passively conventional-minded, are the sheep. They're careful to obey the rules, but when other kids break them, their impluse is to worry that those kids will be punished, not to ensure that they will.
