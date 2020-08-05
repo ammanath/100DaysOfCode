@@ -17,6 +17,12 @@
 * *Learn HyperLedger*
 * Animated bubbles -  https://andrebaltazar.com/blog/e53b/20180722-flutter-animated-backgrounds
 
+#### Wed, Aug 5, 20
+- [ ] Corda
+- [ ] Boring Flutter Show : Ep 3 39mins
+- [ ] Netlify
+- [ ] Basics of CSS
+
 #### Tue, Aug 4, 20
 - [ ] Corda
 - [ ] Boring Flutter Show : Ep 3 39mins
