@@ -20,8 +20,8 @@
 #### Wed, Aug 5, 20
 - [ ] Corda
 - [ ] Boring Flutter Show : Ep 3 39mins
-- [ ] Netlify
-- [ ] Basics of CSS
+- [x] Netlify - changed dns for ammanath.com
+- [x] Basics of CSS     
 
 #### Tue, Aug 4, 20
 - [ ] Corda
