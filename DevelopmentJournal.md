@@ -20,7 +20,7 @@
 #### Thu, Aug 6, 20
 - [ ] Corda
 - [ ] Boring Flutter Show : Ep 3 39mins
-- [ ] Netlify - sub-domains at ammanath.com
+- [x] Netlify - sub-domains at ammanath.com
 - [x] Basics of CSS   
 
 #### Wed, Aug 5, 20
