@@ -21,7 +21,8 @@
 - [ ] Corda
 - [ ] Boring Flutter Show : Ep 3 39mins
 - [ ] Netlify - update site - ammanath.com
-- [ ] Basics of CSS   
+- [ ] Basics of CSS 
+- [ ] Ferris#451 -58  
 
 #### Fri, Aug 7, 20
 - [ ] Corda
