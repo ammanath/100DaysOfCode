@@ -22,7 +22,7 @@
 - [ ] Boring Flutter Show : Ep 3 39mins
 - [ ] Netlify - Build commands
 - [ ] Basics of HTML5 new features
-- [ ] Audio app in Flutter
+- [x] Audio app in Flutter
 - [ ] Ferris#451 -58  
 
 
