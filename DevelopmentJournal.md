@@ -23,7 +23,7 @@
 - [ ] Netlify - Build commands
 - [ ] Basics of HTML5 new features
 - [ ] Audio app in Flutter
-- [ ] Github Homepage Reademe.md
+- [x] Github Homepage Reademe.md
 - [ ] Ferris#451 -58  
 
 #### Mon, Aug 10, 20
