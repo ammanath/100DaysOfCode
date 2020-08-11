@@ -22,7 +22,17 @@
 - [ ] Boring Flutter Show : Ep 3 39mins
 - [ ] Netlify - Build commands
 - [ ] Basics of HTML5 new features
+- [ ] Audio app in Flutter
+- [ ] Github Homepage Reademe.md
+- [ ] Ferris#451 -58  
+
+#### Mon, Aug 10, 20
+- [ ] Corda
+- [ ] Boring Flutter Show : Ep 3 39mins
+- [ ] Netlify - Build commands
+- [ ] Basics of HTML5 new features
 - [x] Audio app in Flutter
+- [x] Github Homepage Reademe.md
 - [ ] Ferris#451 -58  
 
 
