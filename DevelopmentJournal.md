@@ -27,7 +27,7 @@
 
 #### Wed, Aug 12, 20
 - [ ] Basics of HTML5 new features
-- [x] Audio app in Flutter
+- [x] Audio app in Flutter installed on Phone
 - [ ] Github Homepage Reademe.md
 - [ ] Ferris#451 -58  
 
