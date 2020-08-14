@@ -19,11 +19,16 @@
 * Boring Flutter Show : Ep 3 39mins
 * Netlify - Build commands
 
-#### Thu, Aug 13, 20
+#### Fri, Aug 14, 20
 - [ ] Basics of HTML5 new features
 - [ ] Audio app in Flutter
+- [ ] Ferris#451 -58     
+
+#### Thu, Aug 13, 20
+- [ ] Basics of HTML5 new features
+- [x] Audio app in Flutter
 - [ ] Github Homepage Reademe.md
-- [ ] Ferris#451 -58  
+- [ ] Ferris#451 -58     
 
 #### Wed, Aug 12, 20
 - [ ] Basics of HTML5 new features
