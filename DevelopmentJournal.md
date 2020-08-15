@@ -19,8 +19,14 @@
 * Boring Flutter Show : Ep 3 39mins
 * Netlify - Build commands
 
+#### Sat, Aug 15, 20
+- [ ] Canvas in HTML5 
+- [ ] Audio app in Flutter
+- [ ] Ferris#451 -58     
+
+
 #### Fri, Aug 14, 20
-- [ ] Basics of HTML5 new features
+- [x] Canvas in HTML5 
 - [ ] Audio app in Flutter
 - [ ] Ferris#451 -58     
 
