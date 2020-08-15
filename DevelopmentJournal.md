@@ -20,7 +20,7 @@
 * Netlify - Build commands
 
 #### Sat, Aug 15, 20
-- [ ] Canvas in HTML5 
+- [x] Canvas in HTML5 
 - [ ] Audio app in Flutter
 - [ ] Ferris#451 -58     
 
