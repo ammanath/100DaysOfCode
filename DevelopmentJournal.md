@@ -20,7 +20,7 @@
 * Netlify - Build commands
 
 #### Mon, Aug 17, 20
-- [ ] Canvas in HTML5 
+- [x] Flutter KK's app add share functionality
 
 #### Sun, Aug 16, 20
 - [ ] Canvas in HTML5 
