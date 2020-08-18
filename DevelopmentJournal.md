@@ -20,7 +20,7 @@
 * Netlify - Build commands
 
 #### Tue, Aug 18, 20
-- [ ] Flutter KK's app add share functionality
+- [ ] Flutter KK's app added share functionality on clicking icon. Released v4 of app.
 - [ ] Trezor - understand functionality
 
 #### Mon, Aug 17, 20
