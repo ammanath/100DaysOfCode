@@ -19,6 +19,10 @@
 * Boring Flutter Show : Ep 3 39mins
 * Netlify - Build commands
 
+#### Tue, Aug 18, 20
+- [ ] Flutter KK's app add share functionality
+- [ ] Trezor - understand functionality
+
 #### Mon, Aug 17, 20
 - [x] Flutter KK's app add share functionality
 
