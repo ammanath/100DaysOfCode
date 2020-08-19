@@ -20,7 +20,6 @@
 * Netlify - Build commands
 
 #### Wed, Aug 19, 20
-- [ ] Flutter KK's app 
 - [ ] Trezor - understand functionality
 
 #### Tue, Aug 18, 20
