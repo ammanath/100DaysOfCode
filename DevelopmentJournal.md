@@ -19,6 +19,9 @@
 * Boring Flutter Show : Ep 3 39mins
 * Netlify - Build commands
 
+#### Thu, Aug 20, 20
+- [ ] Trezor - buy bitcoin
+
 #### Wed, Aug 19, 20
 - [ ] Trezor - understand functionality
 
