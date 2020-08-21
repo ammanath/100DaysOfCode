@@ -20,7 +20,7 @@
 * Netlify - Build commands
 
 #### Fri, Aug 21, 20
-- [ ] Trezor - buy / sell bitcoins - move it to Trezor
+- [x] Trezor - buy  bitcoins 
 
 #### Thu, Aug 20, 20
 - [x] Trezor - buy / sell altcoins - LiteCoin on BuyUCoin and move it to Trezor
