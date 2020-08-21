@@ -19,8 +19,11 @@
 * Boring Flutter Show : Ep 3 39mins
 * Netlify - Build commands
 
+#### Fri, Aug 21, 20
+- [ ] Trezor - buy / sell bitcoins - move it to Trezor
+
 #### Thu, Aug 20, 20
-- [ ] Trezor - buy bitcoin
+- [x] Trezor - buy / sell altcoins - LiteCoin on BuyUCoin and move it to Trezor
 
 #### Wed, Aug 19, 20
 - [ ] Trezor - understand functionality
