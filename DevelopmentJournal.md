@@ -20,7 +20,7 @@
 * Netlify - Build commands
 
 #### Sun, Aug 23, 20
-- [ ] HTML5 
+- [x] Learn CSS - FlexBox
 
 
 #### Sat, Aug 22, 20
