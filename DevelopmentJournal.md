@@ -19,6 +19,10 @@
 * Boring Flutter Show : Ep 3 39mins
 * Netlify - Build commands
 
+#### Sun, Aug 23, 20
+- [ ] HTML5 
+
+
 #### Sat, Aug 22, 20
 - [ ] Trezor - buy  bitcoins 
 - [ ] HTML5 Canvas
