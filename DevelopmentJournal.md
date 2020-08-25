@@ -19,8 +19,12 @@
 * Boring Flutter Show : Ep 3 39mins
 * Netlify - Build commands
 
-#### Mon, Aug 24, 20
+
+#### Tue, Aug 25, 20
 - [ ] Continue learning CSS - FlexBox
+
+#### Mon, Aug 24, 20
+- [x] Continue learning CSS - FlexBox
 
 #### Sun, Aug 23, 20
 - [x] Learn CSS - FlexBox
