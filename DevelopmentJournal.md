@@ -21,7 +21,7 @@
 
 
 #### Tue, Aug 25, 20
-- [ ] Continue learning CSS - FlexBox
+- [x] Made changes to the KK App
 
 #### Mon, Aug 24, 20
 - [x] Continue learning CSS - FlexBox
