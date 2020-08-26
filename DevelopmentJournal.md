@@ -19,6 +19,8 @@
 * Boring Flutter Show : Ep 3 39mins
 * Netlify - Build commands
 
+#### Wed, Aug 26, 20
+- [x] Started on the read csv file flutter app
 
 #### Tue, Aug 25, 20
 - [x] Made changes to the KK App
