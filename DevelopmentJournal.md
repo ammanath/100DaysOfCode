@@ -19,6 +19,9 @@
 * Boring Flutter Show : Ep 3 39mins
 * Netlify - Build commands
 
+#### Thu, Aug 27, 20
+- [ ] Read csv file flutter app
+
 #### Wed, Aug 26, 20
 - [x] Started on the read csv file flutter app
 
