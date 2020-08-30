@@ -19,8 +19,11 @@
 * Boring Flutter Show : Ep 3 39mins
 * Netlify - Build commands
 
+#### Sun, Aug 30, 20
+- [x] Continued learning CSS
+
 #### Sat, Aug 29, 20
-- [ ] 100dayscsv
+- [x] Started learning CSS - Zero to Hero course
 
 #### Fri, Aug 28, 20
 - [x] Read csv file flutter app
