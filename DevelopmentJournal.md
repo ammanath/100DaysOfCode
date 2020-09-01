@@ -20,7 +20,7 @@
 * Netlify - Build commands
 
 #### Tue, Sep 1, 20
-- [ ] Continue learning CSS, PseudoSelectors and Advanced Selectors - Day 4
+- [x] Continue learning CSS, Attribute selectors - Day 4
 
 #### Mon, Aug 31, 20
 - [x] Continued learning CSS, PseudoSelectors and Advanced Selectors - Day 3
