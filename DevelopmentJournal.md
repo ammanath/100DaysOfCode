@@ -20,7 +20,7 @@
 * Netlify - Build commands
 
 #### Wed, Sep 2, 20
-- [ ] Continue learning CSS, Attribute selectors - Day 5
+- [ ] Could not spend anytime on self learning css
 
 #### Tue, Sep 1, 20
 - [x] Continue learning CSS, Attribute selectors - Day 4
