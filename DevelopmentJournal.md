@@ -20,7 +20,7 @@
 * Netlify - Build commands
 
 #### Thu, Sep 3, 20
-- [ ] Continue learning CSS Day 5
+- [x] Did not get time to learn
 
 #### Wed, Sep 2, 20
 - [x] Could not spend anytime on self learning css
