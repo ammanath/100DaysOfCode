@@ -19,8 +19,11 @@
 * Boring Flutter Show : Ep 3 39mins
 * Netlify - Build commands
 
+#### Thu, Sep 3, 20
+- [ ] Continue learning CSS Day 5
+
 #### Wed, Sep 2, 20
-- [ ] Could not spend anytime on self learning css
+- [x] Could not spend anytime on self learning css
 
 #### Tue, Sep 1, 20
 - [x] Continue learning CSS, Attribute selectors - Day 4
