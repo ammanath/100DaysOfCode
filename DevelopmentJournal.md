@@ -20,7 +20,7 @@
 * Netlify - Build commands
 
 #### Fri, Sep 4, 20
-- [ ] 
+- [ ] No learning day
 
 #### Thu, Sep 3, 20
 - [x] Did not get time to learn
