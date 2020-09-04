@@ -19,6 +19,9 @@
 * Boring Flutter Show : Ep 3 39mins
 * Netlify - Build commands
 
+#### Fri, Sep 4, 20
+- [ ] 
+
 #### Thu, Sep 3, 20
 - [x] Did not get time to learn
 
