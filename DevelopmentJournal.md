@@ -20,7 +20,7 @@
 * Netlify - Build commands
 
 #### Sat, Sep 5, 20
-- [ ] Continue learning CSS - Day 5
+- [x] Continue learning CSS - Day 5 - Colors
 
 #### Fri, Sep 4, 20
 - [ ] No learning day
