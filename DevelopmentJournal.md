@@ -19,6 +19,9 @@
 * Boring Flutter Show : Ep 3 39mins
 * Netlify - Build commands
 
+#### Mon, Sep 7, 20
+- [ ] No learning today
+
 #### Sun, Sep 6, 20
 - [ ] Continue learning CSS - Day 6 - Colors
 
