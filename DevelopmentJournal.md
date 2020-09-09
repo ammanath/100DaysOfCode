@@ -19,7 +19,10 @@
 * Boring Flutter Show : Ep 3 39mins
 * Netlify - Build commands
 
+#### Wed, Sep 9, 20
+
 #### Tue, Sep 8, 20
+- [ ] Continue learning CSS - Day 7 - Fonts
 
 #### Mon, Sep 7, 20
 - [ ] No learning today
