@@ -19,6 +19,9 @@
 * Boring Flutter Show : Ep 3 39mins
 * Netlify - Build commands
 
+#### Fri, Sep 11, 20
+- [ ] Box Model, Float and Display types
+
 #### Thu, Sep 10, 20
 - [ ] No learning today
 
