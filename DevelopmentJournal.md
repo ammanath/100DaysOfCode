@@ -20,7 +20,7 @@
 * Netlify - Build commands
 
 #### Sat, Sep 12, 20
-- [ ] Box Model, Float and Display types
+- [x] Box Model, Float and Display types
 
 #### Fri, Sep 11, 20
 - [ ] Box Model, Float and Display types
