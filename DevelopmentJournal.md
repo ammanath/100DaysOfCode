@@ -19,11 +19,14 @@
 * Boring Flutter Show : Ep 3 39mins
 * Netlify - Build commands
 
+#### Sun, Sep 13, 20
+- [x] FlexBox, Day 10
+
 #### Sat, Sep 12, 20
-- [x] Box Model, Float and Display types
+- [x] Box Model, Float and Display types , Day 9
 
 #### Fri, Sep 11, 20
-- [ ] Box Model, Float and Display types
+- [ ] Box Model, Float and Display types, Day 8
 
 #### Thu, Sep 10, 20
 - [ ] No learning today
