@@ -20,7 +20,7 @@
 * Netlify - Build commands
 
 #### Mon, Sep 14, 20
-- [ ] FlexBox, Day 11
+- [x] FlexBox, Day 11
 
 #### Sun, Sep 13, 20
 - [x] FlexBox, Day 10
