@@ -19,6 +19,9 @@
 * Boring Flutter Show : Ep 3 39mins
 * Netlify - Build commands
 
+#### Mon, Sep 14, 20
+- [ ] FlexBox, Day 11
+
 #### Sun, Sep 13, 20
 - [x] FlexBox, Day 10
 
