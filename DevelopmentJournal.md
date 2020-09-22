@@ -19,6 +19,12 @@
 * Boring Flutter Show : Ep 3 39mins
 * Netlify - Build commands
 
+#### Tue, Sep 22, 20
+- [ ]
+
+#### Mon, Sep 21, 20
+- [ ]Issues with surface pad / monitor
+
 #### Sun, Sep 20, 20
 - [ ]
 
