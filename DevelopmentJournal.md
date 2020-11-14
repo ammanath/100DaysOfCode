@@ -18,6 +18,7 @@
 * Animated bubbles -  https://andrebaltazar.com/blog/e53b/20180722-flutter-animated-backgrounds
 * Boring Flutter Show : Ep 3 39mins
 * Netlify - Build commands
+* Why are checkins into branch not updating the github contributions tracker?
 
 #### Sat, Nov 14, 20 
 - [x] Transition property
