@@ -19,6 +19,9 @@
 * Boring Flutter Show : Ep 3 39mins
 * Netlify - Build commands
 
+#### Sat, Nov 14, 20 
+- [x] Transition property
+
 #### Tue, Sep 22, 20 
 - [ ]
 
